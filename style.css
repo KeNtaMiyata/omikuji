@@ -1,0 +1,15 @@
+img {
+    height: 300px;
+}
+
+#name {
+    color: blue;
+    font-size: 40px;
+}
+  
+#result {
+    color: green;
+    font-size: 50px;
+    font-weight: 500;
+}
+
